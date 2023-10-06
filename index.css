@@ -1,0 +1,24 @@
+*{
+    background-color: #F0EAEA;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FDDEDE;
+    padding: 0 4em;
+}
+ul{
+    background-color: #FDDEDE; 
+    display: flex;
+    align-items: center; 
+}
+
+li{
+    background-color: #FDDEDE;
+    margin: 10px;
+ list-style-type: none;
+}
+
+
