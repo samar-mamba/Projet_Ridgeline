@@ -72,6 +72,10 @@ main{
     height: 200px;
     object-fit: fill;
 }
+.image{
+    width:200px ;
+    /* height: 200px; */
+}
 .colonnegauche{
     padding: 1em 4em;
     margin-top:6em ;
